@@ -1,6 +1,4 @@
 <!-- "Hero" Header -->
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -10,8 +8,10 @@
 
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me
+Hi there,
 
+I'm Everton Zanotelli, a Senior IT Infrastructure Engineer based in Salvador, Bahia, :brazil:. I've been passionate about technology since I was a kid, and I'm currently pursuing my Master's degree in Computer Science at UFBA.
 
 
 
