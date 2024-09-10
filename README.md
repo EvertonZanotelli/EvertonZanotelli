@@ -1,4 +1,6 @@
 <!-- "Hero" Header -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -9,7 +11,7 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://evertonzn.dev/)
+
 
 
 
@@ -54,7 +56,7 @@ Feel free to schedule a time for a professional conversation – just be sure to
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
 <!-- Footer -->
 
 <div align="center">
