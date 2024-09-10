@@ -9,7 +9,6 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
-[![Linkedin: evertonzanotelli](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evertonzanotelli-p-singh/)](https://www.linkedin.com/in/evertonzanotelli/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://evertonzn.dev/)
 
 
