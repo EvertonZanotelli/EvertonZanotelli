@@ -9,7 +9,7 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
-[![Linkedin: evertonzanotelli](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/evertonzanotelli/)
+[![Linkedin: evertonzanotelli](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evertonzanotelli-p-singh/)](https://www.linkedin.com/in/evertonzanotelli/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://evertonzn.dev/)
 
 
@@ -21,32 +21,9 @@ Feel free to schedule a time for a professional conversation – just be sure to
 <a href="https://calendly.com/evertonzn/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
 ## 📝 Blogs
 
 - Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
 
 ## 🔧 Technologies & Tools
