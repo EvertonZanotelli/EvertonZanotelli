@@ -12,7 +12,7 @@
 
 Hi there,
 
-I'm Everton Zanotelli, a Senior IT Infrastructure Engineer based in Salvador, Bahia, :brazil:. I've been passionate about technology since I was a kid, and I'm currently pursuing my Master's degree in Computer Science at UFBA.
+I'm Everton Zanotelli, a brazilian :brazil: developer. I've been passionate about technology since I was a kid, my personal fields on interest are Cyber Security, Computer Networks, IT Infrastructure. I'm currently pursuing my Master's degree in Computer Science at UFBA.
 
 
 
@@ -57,12 +57,12 @@ Feel free to schedule a time for a professional conversation – just be sure to
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
 <!-- Footer -->
 
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
 <br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
