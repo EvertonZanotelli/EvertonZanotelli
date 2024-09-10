@@ -9,6 +9,7 @@
 </div>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me
+
 Hi there,
 
 I'm Everton Zanotelli, a Senior IT Infrastructure Engineer based in Salvador, Bahia, :brazil:. I've been passionate about technology since I was a kid, and I'm currently pursuing my Master's degree in Computer Science at UFBA.
