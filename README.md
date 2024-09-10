@@ -7,6 +7,7 @@
   <br />
 
 </div>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evertonzanotelli.evertonzanotelli) 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me
