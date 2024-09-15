@@ -14,7 +14,7 @@
 
 Hi there,
 
-I'm Everton Zanotelli, a brazilian :brazil: developer. I've been passionate about technology since I was a kid, my personal fields on interest are Cyber Security, Computer Networks, IT Infrastructure. I'm currently pursuing my Master's degree in Computer Science at UFBA.
+I'm Everton Zanotelli, a brazilian :brazil: developer. I've been passionate about technology since I was a kid, my personal fields of interest are Cyber Security, Computer Networks and IT Infrastructure. I'm currently pursuing my Master's degree in Computer Science at UFBA.
 
 
 
