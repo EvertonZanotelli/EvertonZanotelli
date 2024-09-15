@@ -59,6 +59,10 @@ Feel free to schedule a time for a professional conversation – just be sure to
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
+
+<h3 align="left">I am currently reading:</h3>
+<a href="https://github.com/EvertonZanotelli/"><img src="https://goodreads-readme.vercel.app/api/book?id=137078158" alt="GoodReads reading" width="350" /></a>
+
 <!-- Footer -->
 
 <div align="center">
