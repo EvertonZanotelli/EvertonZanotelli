@@ -60,8 +60,6 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 
 
-<h3 align="left">I am currently reading:</h3>
-<a href="https://github.com/EvertonZanotelli/"><img src="https://goodreads-readme.vercel.app/api/book?id=137078158" alt="GoodReads reading" width="350" /></a>
 
 <!-- Footer -->
 
