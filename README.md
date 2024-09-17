@@ -34,7 +34,7 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 🔧 Technologies & Tools
 
-**Operating Systems:**
+**Operating Systems**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,8 +42,21 @@ Feel free to schedule a time for a professional conversation – just be sure to
   </a>
 </p>
 
+**Infrastructure & Cloud**
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,openStack,gcp,azure,ansible" />
+  </a>
+</p>
 
+**Containerization & Orchestration**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+</p>
 
 **Programming Languages:**
 
@@ -53,12 +66,36 @@ Feel free to schedule a time for a professional conversation – just be sure to
   </a>
 </p>
 
-**Tools and Services:**
+**Automation & CI/CD**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,gitlab,git" />
+  </a>
+</p>
 
+**Monitoring & Observability**
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+  </a>
+</p>
+
+**Web Development Frameworks**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordPress,flask,django,nginx" />
+  </a>
+</p>
+
+**Databases:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,sqlite,postgres" />
+  </a>
+</p>
 
 
 <!-- Footer -->
