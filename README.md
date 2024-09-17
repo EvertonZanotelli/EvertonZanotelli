@@ -36,7 +36,7 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 **Operating Systems:**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=debian,linux,redhat,ubuntu,windows" />
   </a>
@@ -47,9 +47,11 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,regex,py,php,perl,js,html,go,c,bash" />
+  </a>
+</p>
 
 **Tools and Services:**
 
