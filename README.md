@@ -46,7 +46,7 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,openstack,gcp,azure,ansible" />
+    <img src="https://skillicons.dev/icons?i=terraform,gcp,azure,ansible" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Feel free to schedule a time for a professional conversation – just be sure to
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,regex,py,php,perl,js,html,go,c,bash" />
+    <img src="https://skillicons.dev/icons?i=rust,py,c,bash,pearl" />
   </a>
 </p>
 
