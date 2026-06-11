@@ -25,13 +25,6 @@ Feel free to schedule a time for a professional conversation – just be sure to
 <a href="https://calendly.com/evertonzn/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
-:twisted_rightwards_arrows: Other platforms
-
-- Personal website : https://evertonzn.dev/ :building_construction:
-- Hack The Box: https://app.hackthebox.com/profile/333764 :shipit:
-- Hacker Rank: https://www.hackerrank.com/evertonzn :abacus:
-
-
 🔧 Technologies & Tools
 
 **Operating Systems**
